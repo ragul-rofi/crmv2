@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node/React
+node_modules/
+build/
+
+# Uploads
+backend/uploads/
+token.pickle
+
+# OS files
+.DS_Store
